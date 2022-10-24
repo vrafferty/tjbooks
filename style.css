@@ -1,0 +1,39 @@
+.form-container {
+    height: 100vh !important;
+    min-width: 80% !important;
+}
+
+body {
+    background: rgb(14, 83, 83);
+    font-family: "IBM Plex Serif", sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    color: rgb(129, 118, 54);
+    font-family: "Abril Fatface", sans-serif;
+    font-size: 2rem;
+}
+
+.btn {
+    background-color: rgb(129,118,54, 0.5);
+    border-radius: 30%;
+    width: 5rem;
+    border: 0.3px solid rgb(99, 87, 21);
+    color: black;
+    font-weight: bold;
+    font-size: 0.7rem;
+}
+
+.btn:hover {
+    background-color: rgb(75, 67, 20);
+}
+
+div {
+    color: white;
+}
+
+.teal {
+    background-color: rgb(57, 112, 112);
+    border-bottom: 0.2px solid rgba(197, 191, 191, 0.446);
+}
